@@ -1,3 +1,5 @@
-# August 27th 2020
+## [1.0.1] - 2020-09-02
+- Update documentation
 
-Released version 1.0.0.
+## [1.0.0] - 2020-08-27
+- Initial release
